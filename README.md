@@ -20,7 +20,7 @@ By achieving this goal, we anticipate higher levels of customer engagement, incr
 ## Relationship model 
 ![TOY DATA-RELATION](https://github.com/YounamS/Power_BI_project/assets/40123305/132b7d42-b624-44de-91a4-9c8b2d83c574)
 
-##  Store Data 
+##  Store Performance  
 ![TOY STORE](https://github.com/YounamS/Power_BI_project/assets/40123305/28cc1547-5b79-485f-b6a3-fe22d22b46dd)
 
 ## TOY BY STORES  
